@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 9758feb54a2aa084d8a87669ee3a50a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6134833437118114508
+    second: Lab FlooringFixed_0
+  - first:
+      213: 497557863808594716
+    second: Lab FlooringFixed_1
+  - first:
+      213: 7270745103103106621
+    second: Lab FlooringFixed_2
+  - first:
+      213: -2314666057283447773
+    second: Lab FlooringFixed_3
+  - first:
+      213: 7488668268640564887
+    second: Lab FlooringFixed_4
+  - first:
+      213: -7719896923090844666
+    second: Lab FlooringFixed_5
+  - first:
+      213: -481706243444390960
+    second: Lab FlooringFixed_6
+  - first:
+      213: 1768070484893608819
+    second: Lab FlooringFixed_7
+  - first:
+      213: 9062441442516180743
+    second: Lab FlooringFixed_8
+  - first:
+      213: -7488822148854673935
+    second: Lab FlooringFixed_9
+  - first:
+      213: 2614766800427640673
+    second: Lab FlooringFixed_10
+  - first:
+      213: -8817362301516972331
+    second: Lab FlooringFixed_11
+  - first:
+      213: -3131721459650270473
+    second: Lab FlooringFixed_12
+  - first:
+      213: 6819437269117404514
+    second: Lab FlooringFixed_13
+  - first:
+      213: 5449435565824936730
+    second: Lab FlooringFixed_14
+  - first:
+      213: -1583802635067175421
+    second: Lab FlooringFixed_15
+  - first:
+      213: 5719170810642868782
+    second: Lab FlooringFixed_16
+  - first:
+      213: -1775307176879779204
+    second: Lab FlooringFixed_17
+  - first:
+      213: 3462056058943968928
+    second: Lab FlooringFixed_18
+  - first:
+      213: -3919486945022414067
+    second: Lab FlooringFixed_19
+  - first:
+      213: 8050918400872865029
+    second: Lab FlooringFixed_20
+  - first:
+      213: -7648653602870518548
+    second: Lab FlooringFixed_21
+  - first:
+      213: 6824282571126331647
+    second: Lab FlooringFixed_22
+  - first:
+      213: -2136153684889599700
+    second: Lab FlooringFixed_23
+  - first:
+      213: -5253104035461187030
+    second: Lab FlooringFixed_24
+  - first:
+      213: 6316911277260204739
+    second: Lab FlooringFixed_25
+  - first:
+      213: -869996442364944414
+    second: Lab FlooringFixed_26
+  - first:
+      213: -8069503934945465313
+    second: Lab FlooringFixed_27
+  - first:
+      213: -6634328940492741672
+    second: Lab FlooringFixed_28
+  - first:
+      213: -7980730277928061299
+    second: Lab FlooringFixed_29
+  - first:
+      213: 1054112555796461128
+    second: Lab FlooringFixed_30
+  - first:
+      213: -2131660577933027675
+    second: Lab FlooringFixed_31
+  - first:
+      213: 7398391871529647075
+    second: Lab FlooringFixed_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lab FlooringFixed_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bafe50db2798810800000000000000
+      internalID: 1768070484893608819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f94f22a7244cd70800000000000000
+      internalID: 9062441442516180743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd807fdeeb521890800000000000000
+      internalID: -7488822148854673935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16769f52d84894420800000000000000
+      internalID: 2614766800427640673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def82204bf62a580800000000000000
+      internalID: -8817362301516972331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b006756c840ab40800000000000000
+      internalID: 5449435565824936730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4e7e05e3350ae0800000000000000
+      internalID: -1583802635067175421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aa6220d839e5f40800000000000000
+      internalID: 5719170810642868782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7211e25787dc57e0800000000000000
+      internalID: -1775307176879779204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a618d194a1bb0030800000000000000
+      internalID: 3462056058943968928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d326d29af02ee3a0800000000000000
+      internalID: -6634328940492741672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lab FlooringFixed_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b4ef8810ce3190800000000000000
+      internalID: -7980730277928061299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
